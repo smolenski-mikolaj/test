@@ -1,0 +1,22 @@
+{
+  "name": "test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/smolenski-mikolaj/test.git"
+  },
+  "keywords": [
+    "test"
+  ],
+  "author": "M.Smolenski",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/smolenski-mikolaj/test/issues"
+  },
+  "homepage": "https://github.com/smolenski-mikolaj/test#readme"
+}
